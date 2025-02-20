@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #023047;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.container {
+    background-color: #415a77;
+    color: #ffe6a7;
+    text-decoration: wavy;
+    border-radius: 1rem;
+    padding: 2rem;
+    box-shadow: 0 0 25px #1a2024;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
